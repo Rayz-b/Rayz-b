@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rayz-b
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Computer Architecture, Machine Learning and JS.
+- 🌱 I’m currently learning Computer Architecture, Machine Learning, PowerShell and JS.
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
